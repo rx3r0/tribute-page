@@ -1,0 +1,67 @@
+body {
+  background-color: #f6f6f6;
+  text-align: center;
+}
+
+#main {
+  margin: auto;
+  width: 95%;
+  font-family: "Trebuchet MS", "Helvetica Neue", "Open Sans";
+}
+
+#title {
+  background-color: white;
+  margin: auto;
+  padding-left: 10px;
+  padding-right: 10px;
+  border-radius: 10px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+#quick-bio {
+  min-width: 100px;
+  margin: auto;
+}
+
+.sub-title {
+  font-size: 18px;
+}
+
+#img-div {
+  margin: auto;
+}
+
+#image {
+  max-width: 300px;
+  margin: auto;
+  display: block;
+}
+
+#img-caption {
+}
+
+h2 {
+  text-align: center;
+}
+
+#tribute-info {
+  text-align: left;
+  margin: auto;
+  width: 80%;
+}
+
+li {
+  padding-bottom: 10px;
+}
+
+blockquote {
+  font-size: 18px;
+  font-style: italic;
+}
+
+#tribute-link {
+  
+}
